@@ -1,0 +1,8 @@
+broom.png
+size:252,252
+filter:Linear,Linear
+pma:true
+broom_white
+bounds:2,127,198,123
+broom_yellow
+bounds:2,2,198,123

@@ -1,0 +1,151 @@
+Pack.png
+size:1024,1024
+filter:Linear,Linear
+pma:true
+scale:0.93
+Best Value Bundle/Banner1
+bounds:2,868,716,154
+Best Value Bundle/Best Value
+bounds:930,332,419,89
+rotate:90
+Best Value Bundle/Best Value_JP
+bounds:488,736,440,78
+Best Value Bundle/Bundle
+bounds:90,643,360,127
+offsets:4,5,368,132
+Best Value Bundle/Bundle_JP
+bounds:90,517,357,124
+offsets:2,3,362,127
+Best Value Bundle/Star_Blue2
+bounds:916,155,101,100
+offsets:1,0,103,100
+Best Value Bundle/Star_Green
+bounds:836,208,78,74
+offsets:0,1,78,75
+Best Value Bundle/Star_Purple
+bounds:836,284,85,82
+offsets:0,0,86,82
+Best Value Bundle/Star_Yellow2
+bounds:561,817,51,49
+offsets:0,1,51,50
+Exclusive Deal/Banner_Yellow
+bounds:221,127,203,73
+offsets:2,1,207,75
+rotate:90
+Exclusive Deal/Exclusive
+bounds:452,641,452,93
+offsets:1,2,455,97
+Exclusive Deal/Exclusive_jp
+bounds:2,772,484,94
+offsets:2,1,487,95
+Exclusive Deal/Star_Firework
+bounds:221,2,186,123
+offsets:5,5,195,132
+Exclusive Deal/ico_balloon
+bounds:720,816,218,126
+offsets:0,1,219,127
+Exclusive Deal/sale tag
+bounds:448,136,194,193
+rotate:90
+Only for You/Confetti1
+bounds:534,525,114,111
+rotate:90
+Only for You/Confetti2_1
+bounds:57,744,26,26
+Only for You/Confetti2_2
+bounds:1000,998,24,20
+rotate:90
+Only for You/Confetti3
+bounds:752,8,60,76
+rotate:90
+Only for You/Confetti4
+bounds:32,741,29,23
+rotate:90
+Only for You/Only For
+bounds:720,944,278,78
+offsets:0,1,279,79
+Only for You/Speaker1
+bounds:748,503,136,164
+offsets:1,0,138,164
+rotate:90
+Only for You/Speaker2
+bounds:726,192,138,108
+offsets:0,1,139,110
+rotate:90
+Only for You/Star_Green_Ofer
+bounds:576,336,187,110
+offsets:5,8,192,118
+rotate:90
+Only for You/Star_Pink_Offer
+bounds:409,4,192,125
+offsets:0,7,194,132
+Only for You/You
+bounds:940,753,189,82
+offsets:0,0,190,82
+rotate:90
+Only for You/only for_jp
+bounds:2,350,384,86
+rotate:90
+Only for You/you_jp
+bounds:132,4,326,87
+rotate:90
+Starter Pack/Flag1
+bounds:296,131,199,150
+rotate:90
+Starter Pack/Flag2
+bounds:90,333,182,128
+rotate:90
+Starter Pack/Flower
+bounds:923,257,83,73
+offsets:1,1,85,75
+Starter Pack/Gift1
+bounds:417,345,157,170
+Starter Pack/Gift2
+bounds:743,368,133,149
+rotate:90
+Starter Pack/Gift3
+bounds:220,336,179,195
+rotate:90
+Starter Pack/Leaf1
+bounds:836,70,136,76
+rotate:90
+Starter Pack/Leaf2_1
+bounds:643,190,81,140
+Starter Pack/Leaf2_2
+bounds:685,48,65,140
+Starter Pack/Leaf3
+bounds:752,90,100,67
+rotate:90
+Starter Pack/glow
+bounds:914,46,107,107
+offsets:6,6,119,119
+Starter Pack/particle
+bounds:688,395,76,35
+offsets:2,0,80,35
+rotate:90
+WeekendSale/Bubble1
+bounds:2,740,28,30
+WeekendSale/Bubble2
+bounds:614,819,41,47
+offsets:0,0,42,47
+WeekendSale/Float
+bounds:449,522,117,83
+offsets:0,1,117,85
+rotate:90
+WeekendSale/Float_Shadow
+bounds:488,816,50,71
+offsets:2,1,55,75
+rotate:90
+WeekendSale/Sandholder
+bounds:647,526,113,99
+rotate:90
+WeekendSale/Starfish
+bounds:688,473,53,51
+offsets:1,1,55,54
+WeekendSale/Watermelon
+bounds:603,21,113,80
+offsets:0,0,114,80
+rotate:90
+WeekendSale/Wave
+bounds:2,4,326,128
+rotate:90

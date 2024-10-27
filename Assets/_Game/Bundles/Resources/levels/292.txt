@@ -1,0 +1,640 @@
+{
+    "level": 292,
+    "boxes": [
+        {
+            "eColor": 7,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 1,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 0,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 6,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 9,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 8,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 4,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 2,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 3,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        },
+        {
+            "eColor": 5,
+            "holes": [
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                },
+                {
+                    "eType": -1
+                }
+            ]
+        }
+    ],
+    "shapes": [
+        {
+            "identify": 1,
+            "id": 21,
+            "layer": 3,
+            "localRotationZ": 0.302149624,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": 1.7776649,
+                "y": 4.234907,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 1,
+                    "eType": -1,
+                    "eScrewColor": 5,
+                    "localPos": {
+                        "x": -0.7696,
+                        "y": 0.548599958,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 2,
+                    "eType": -1,
+                    "eScrewColor": 8,
+                    "localPos": {
+                        "x": -2.07025,
+                        "y": -0.5863,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 3,
+                    "eType": -1,
+                    "eScrewColor": 0,
+                    "localPos": {
+                        "x": 2.14370012,
+                        "y": -0.5863,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 4,
+                    "eType": -1,
+                    "eScrewColor": 9,
+                    "localPos": {
+                        "x": 1.1778,
+                        "y": 0.06305,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 2,
+            "id": 21,
+            "layer": 3,
+            "localRotationZ": 359.95578,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": 1.71828878,
+                "y": -4.793944359999999,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 5,
+                    "eType": -1,
+                    "eScrewColor": 0,
+                    "localPos": {
+                        "x": -2.07545,
+                        "y": -0.5889,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 6,
+                    "eType": -1,
+                    "eScrewColor": 1,
+                    "localPos": {
+                        "x": 0.03315,
+                        "y": -0.5889,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 7,
+                    "eType": -1,
+                    "eScrewColor": 4,
+                    "localPos": {
+                        "x": 2.1489,
+                        "y": -0.5889,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 3,
+            "id": 21,
+            "layer": 3,
+            "localRotationZ": 0.139586851,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -1.2416538,
+                "y": -0.0457694500000001,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 8,
+                    "eType": -1,
+                    "eScrewColor": 9,
+                    "localPos": {
+                        "x": -0.7696,
+                        "y": 0.548599958,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 9,
+                    "eType": -1,
+                    "eScrewColor": 5,
+                    "localPos": {
+                        "x": 1.1778,
+                        "y": 0.06305,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 4,
+            "id": 19,
+            "layer": 2,
+            "localRotationZ": 14.6254025,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -3.92525125,
+                "y": 2.66130066,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 10,
+                    "eType": -1,
+                    "eScrewColor": 4,
+                    "localPos": {
+                        "x": 0.76699996,
+                        "y": 1.6965,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 11,
+                    "eType": -1,
+                    "eScrewColor": 7,
+                    "localPos": {
+                        "x": -0.585,
+                        "y": -0.0389999971,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 12,
+                    "eType": -1,
+                    "eScrewColor": 8,
+                    "localPos": {
+                        "x": 0.76699996,
+                        "y": -1.703,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 5,
+            "id": 27,
+            "layer": 1,
+            "localRotationZ": 358.084534,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -0.464132339,
+                "y": 4.50761938,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 13,
+                    "eType": -1,
+                    "eScrewColor": 0,
+                    "localPos": {
+                        "x": -0.0272999983,
+                        "y": 0.5239,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 14,
+                    "eType": -1,
+                    "eScrewColor": 8,
+                    "localPos": {
+                        "x": -0.431599975,
+                        "y": -0.72085,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 6,
+            "id": 27,
+            "layer": 1,
+            "localRotationZ": 299.909424,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -1.05622387,
+                "y": -0.19983912000000004,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 15,
+                    "eType": -1,
+                    "eScrewColor": 6,
+                    "localPos": {
+                        "x": -0.0272999983,
+                        "y": 0.5239,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 16,
+                    "eType": -1,
+                    "eScrewColor": 3,
+                    "localPos": {
+                        "x": -0.431599975,
+                        "y": -0.72085,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 7,
+            "id": 27,
+            "layer": 1,
+            "localRotationZ": 255.17,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": 3.14586878,
+                "y": -2.7980833,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 17,
+                    "eType": -1,
+                    "eScrewColor": 7,
+                    "localPos": {
+                        "x": -0.0272999983,
+                        "y": 0.5239,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 18,
+                    "eType": -1,
+                    "eScrewColor": 1,
+                    "localPos": {
+                        "x": -0.431599975,
+                        "y": -0.72085,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 8,
+            "id": 67,
+            "layer": 1,
+            "localRotationZ": 39.64413,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": 3.88914251,
+                "y": 1.9595026999999998,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 19,
+                    "eType": -1,
+                    "eScrewColor": 2,
+                    "localPos": {
+                        "x": -0.2678,
+                        "y": 1.4222,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 20,
+                    "eType": -1,
+                    "eScrewColor": 5,
+                    "localPos": {
+                        "x": 0.299,
+                        "y": -1.40789986,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 9,
+            "id": 67,
+            "layer": 1,
+            "localRotationZ": 41.42682,
+            "localScaleX": 1.53846157,
+            "localScaleY": 1.53846157,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -1.64042032,
+                "y": -3.83943653,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 21,
+                    "eType": -1,
+                    "eScrewColor": 7,
+                    "localPos": {
+                        "x": -0.2678,
+                        "y": 1.4222,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 22,
+                    "eType": -1,
+                    "eScrewColor": 6,
+                    "localPos": {
+                        "x": 0.299,
+                        "y": -1.40789986,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 10,
+            "id": 57,
+            "layer": 0,
+            "localRotationZ": 0.955957234,
+            "localScaleX": 1.5151515,
+            "localScaleY": 1.5151515,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -2.50450683,
+                "y": -2.6783452,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 23,
+                    "eType": -1,
+                    "eScrewColor": 2,
+                    "localPos": {
+                        "x": -0.0066,
+                        "y": 1.24146008,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 24,
+                    "eType": -1,
+                    "eScrewColor": 1,
+                    "localPos": {
+                        "x": -0.77484,
+                        "y": -0.152460009,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 25,
+                    "eType": -1,
+                    "eScrewColor": 2,
+                    "localPos": {
+                        "x": -0.01254,
+                        "y": -1.24278,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 26,
+                    "eType": -1,
+                    "eScrewColor": 6,
+                    "localPos": {
+                        "x": 0.78606,
+                        "y": -0.152460009,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 11,
+            "id": 57,
+            "layer": 0,
+            "localRotationZ": 359.9012,
+            "localScaleX": 1.5151515,
+            "localScaleY": 1.5151515,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": 2.73538876,
+                "y": -0.167489,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 27,
+                    "eType": -1,
+                    "eScrewColor": 3,
+                    "localPos": {
+                        "x": -0.7227,
+                        "y": -0.87648,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 28,
+                    "eType": -1,
+                    "eScrewColor": 3,
+                    "localPos": {
+                        "x": 0.7623,
+                        "y": -0.87648,
+                        "z": 0.0
+                    }
+                }
+            ]
+        },
+        {
+            "identify": 12,
+            "id": 57,
+            "layer": 0,
+            "localRotationZ": 0.302131563,
+            "localScaleX": 1.5151515,
+            "localScaleY": 1.5151515,
+            "eColorShape": 0,
+            "worldPos": {
+                "x": -1.50082624,
+                "y": 3.29043436,
+                "z": 0.0
+            },
+            "holes": [
+                {
+                    "identify": 29,
+                    "eType": -1,
+                    "eScrewColor": 4,
+                    "localPos": {
+                        "x": 0.00528,
+                        "y": 1.18668,
+                        "z": 0.0
+                    }
+                },
+                {
+                    "identify": 30,
+                    "eType": -1,
+                    "eScrewColor": 9,
+                    "localPos": {
+                        "x": 0.00528,
+                        "y": -0.89628005,
+                        "z": 0.0
+                    }
+                }
+            ]
+        }
+    ],
+    "obstacles": []
+}

@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: New Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300018, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300022, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300020, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300024, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300028, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300000, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300004, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300006, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300008, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300026, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300016, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300010, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300002, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300014, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    - {fileID: 21300012, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a701fd5f187741afa3fa17505eb13478: 21300016
+    - a701fd5f187741afa3fa17505eb13478: 21300002
+    - a701fd5f187741afa3fa17505eb13478: 21300024
+    - a701fd5f187741afa3fa17505eb13478: 21300014
+    - a701fd5f187741afa3fa17505eb13478: 21300006
+    - a701fd5f187741afa3fa17505eb13478: 21300008
+    - a701fd5f187741afa3fa17505eb13478: 21300004
+    - a701fd5f187741afa3fa17505eb13478: 21300028
+    - a701fd5f187741afa3fa17505eb13478: 21300012
+    - a701fd5f187741afa3fa17505eb13478: 21300022
+    - a701fd5f187741afa3fa17505eb13478: 21300026
+    - a701fd5f187741afa3fa17505eb13478: 21300020
+    - a701fd5f187741afa3fa17505eb13478: 21300018
+    - a701fd5f187741afa3fa17505eb13478: 21300000
+    - a701fd5f187741afa3fa17505eb13478: 21300010
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300016, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300002, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300024, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300014, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300006, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300008, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300004, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300028, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300012, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300022, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300026, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300020, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300018, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300000, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  - {fileID: 21300010, guid: a701fd5f187741afa3fa17505eb13478, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - arrow
+  - submarine_icon_black
+  - tab
+  - music
+  - vibrate
+  - rate_icon
+  - x
+  - sound
+  - no ads
+  - btn_blue
+  - btn_green
+  - keepplaying_icon_3
+  - keepplaying_icon_2
+  - submarine_icon
+  - btn_yellow
+  m_RenderDataMap: {}
+  m_Tag: New Sprite Atlas
+  m_IsVariant: 0

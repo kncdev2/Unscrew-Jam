@@ -1,0 +1,7018 @@
+fileFormatVersion: 2
+guid: e64e2ec918844245acbb3e33b80abbd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: skinboxcover4_lavender
+  - first:
+      213: 21300002
+    second: skincoverhandle3_lavender
+  - first:
+      213: 21300004
+    second: skincoverhandle1_lavender
+  - first:
+      213: 21300006
+    second: skincoverhandle1_yellow
+  - first:
+      213: 21300008
+    second: CoverHandle_Violet
+  - first:
+      213: 21300010
+    second: skinboxcover3_pink
+  - first:
+      213: 21300012
+    second: skincoverhandle2_skyblue
+  - first:
+      213: 21300014
+    second: skincoverhandle4_pink
+  - first:
+      213: 21300016
+    second: CoverHandle_Blue
+  - first:
+      213: 21300018
+    second: skinhandle4_lavender
+  - first:
+      213: 21300020
+    second: skinboxcover2_oldgreen
+  - first:
+      213: 21300022
+    second: skincoverhandle4_lavender
+  - first:
+      213: 21300024
+    second: skincoverhandle4_lavender
+  - first:
+      213: 21300026
+    second: skincoverhandle3_violet
+  - first:
+      213: 21300028
+    second: skinboxcover1_green
+  - first:
+      213: 21300030
+    second: skinboxcover2_green
+  - first:
+      213: 21300032
+    second: skincoverhandle1_orange
+  - first:
+      213: 21300034
+    second: skincoverhandle4_yellow
+  - first:
+      213: 21300036
+    second: skincoverhandle3_green
+  - first:
+      213: 21300038
+    second: CoverHandle_Red
+  - first:
+      213: 21300040
+    second: skinhandle4_lavender
+  - first:
+      213: 21300042
+    second: skinboxcover4_pink
+  - first:
+      213: 21300044
+    second: skinboxcover3_skyblue
+  - first:
+      213: 21300046
+    second: skincoverhandle5_lavender
+  - first:
+      213: 21300048
+    second: skinboxcover2_orange
+  - first:
+      213: 21300050
+    second: skinboxcover1_yellow
+  - first:
+      213: 21300052
+    second: skinboxcover3_blue
+  - first:
+      213: 21300054
+    second: skinboxcover1_pink
+  - first:
+      213: 21300056
+    second: skinboxcover4_yellow
+  - first:
+      213: 21300058
+    second: skincoverhandle3_yellow
+  - first:
+      213: 21300060
+    second: skinboxcover3_green
+  - first:
+      213: 21300062
+    second: skincoverhandle3_lavender
+  - first:
+      213: 21300064
+    second: CoverHandle_Orange
+  - first:
+      213: 21300066
+    second: skincoverhandle5_lavender
+  - first:
+      213: 21300068
+    second: skinboxcover1_lavender
+  - first:
+      213: 21300070
+    second: skincoverhandle5_oldgreen
+  - first:
+      213: 21300072
+    second: skincoverhandle3_orange
+  - first:
+      213: 21300074
+    second: skincoverhandle5_blue
+  - first:
+      213: 21300076
+    second: skincoverhandle2_blue
+  - first:
+      213: 21300078
+    second: skinboxcover3_oldgreen
+  - first:
+      213: 21300080
+    second: skinboxcover4_green
+  - first:
+      213: 21300082
+    second: skincoverhandle5_skyblue
+  - first:
+      213: 21300084
+    second: skincoverhandle1_blue
+  - first:
+      213: 21300086
+    second: Boxcover_Violet
+  - first:
+      213: 21300088
+    second: CoverHandle_Green
+  - first:
+      213: 21300090
+    second: skincoverhandle3_skyblue
+  - first:
+      213: 21300092
+    second: skinhandle2_lavender
+  - first:
+      213: 21300094
+    second: CoverHandle_SkyBlue
+  - first:
+      213: 21300096
+    second: skinboxcover3_violet
+  - first:
+      213: 21300098
+    second: skincoverhandle5_yellow
+  - first:
+      213: 21300100
+    second: skinboxcover1_oldgreen
+  - first:
+      213: 21300102
+    second: Boxcover_Blue
+  - first:
+      213: 21300104
+    second: skinhandle5_lavender
+  - first:
+      213: 21300106
+    second: skincoverhandle1_pink
+  - first:
+      213: 21300108
+    second: skincoverhandle2_oldgreen
+  - first:
+      213: 21300110
+    second: skincoverhandle3_red
+  - first:
+      213: 21300112
+    second: skincoverhandle2_violet
+  - first:
+      213: 21300114
+    second: skincoverhandle2_orange
+  - first:
+      213: 21300116
+    second: skinboxcover3_yellow
+  - first:
+      213: 21300118
+    second: skincoverhandle3_oldgreen
+  - first:
+      213: 21300120
+    second: skinhandle1_lavender
+  - first:
+      213: 21300122
+    second: Boxcover_Orange
+  - first:
+      213: 21300124
+    second: skinboxcover1_red
+  - first:
+      213: 21300126
+    second: Boxcover_SkyBlue
+  - first:
+      213: 21300128
+    second: skincoverhandle4_green
+  - first:
+      213: 21300130
+    second: skinboxcover2_skyblue
+  - first:
+      213: 21300132
+    second: skincoverhandle1_lavender
+  - first:
+      213: 21300134
+    second: skinboxcover1_violet
+  - first:
+      213: 21300136
+    second: skinhandle2_lavender
+  - first:
+      213: 21300138
+    second: skinboxcover4_orange
+  - first:
+      213: 21300140
+    second: skinboxcover2_yellow
+  - first:
+      213: 21300142
+    second: skinhandle5_lavender
+  - first:
+      213: 21300144
+    second: skinboxcover3_orange
+  - first:
+      213: 21300146
+    second: skinboxcover3_red
+  - first:
+      213: 21300148
+    second: skincoverhandle5_orange
+  - first:
+      213: 21300150
+    second: skincoverhandle4_red
+  - first:
+      213: 21300152
+    second: skincoverhandle4_oldgreen
+  - first:
+      213: 21300154
+    second: skincoverhandle5_red
+  - first:
+      213: 21300156
+    second: CoverHandle_Pink
+  - first:
+      213: 21300158
+    second: CoverHandle_Yellow
+  - first:
+      213: 21300160
+    second: skinboxcover1_orange
+  - first:
+      213: 21300162
+    second: Boxcover_Green
+  - first:
+      213: 21300164
+    second: skincoverhandle2_pink
+  - first:
+      213: 21300166
+    second: skinboxcover3_lavender
+  - first:
+      213: 21300168
+    second: Boxcover_Yellow
+  - first:
+      213: 21300170
+    second: CoverHandle_GrayViolet
+  - first:
+      213: 21300172
+    second: skinboxcover3_lavender
+  - first:
+      213: 21300174
+    second: skincoverhandle1_red
+  - first:
+      213: 21300176
+    second: skinboxcover4_red
+  - first:
+      213: 21300178
+    second: skinboxcover1_lavender
+  - first:
+      213: 21300180
+    second: skincoverhandle5_green
+  - first:
+      213: 21300182
+    second: CoverHandle_OldGreen
+  - first:
+      213: 21300184
+    second: skinboxcover4_skyblue
+  - first:
+      213: 21300186
+    second: skincoverhandle1_oldgreen
+  - first:
+      213: 21300188
+    second: skincoverhandle4_skyblue
+  - first:
+      213: 21300190
+    second: skincoverhandle4_blue
+  - first:
+      213: 21300192
+    second: skincoverhandle4_orange
+  - first:
+      213: 21300194
+    second: skincoverhandle5_violet
+  - first:
+      213: 21300196
+    second: skinboxcover1_skyblue
+  - first:
+      213: 21300198
+    second: skincoverhandle3_pink
+  - first:
+      213: 21300200
+    second: skincoverhandle1_skyblue
+  - first:
+      213: 21300202
+    second: skincoverhandle5_pink
+  - first:
+      213: 21300204
+    second: skinboxcover1_blue
+  - first:
+      213: 21300206
+    second: skinboxcover4_violet
+  - first:
+      213: 21300208
+    second: skincoverhandle3_blue
+  - first:
+      213: 21300210
+    second: Handle
+  - first:
+      213: 21300212
+    second: skincoverhandle2_yellow
+  - first:
+      213: 21300214
+    second: skincoverhandle2_red
+  - first:
+      213: 21300216
+    second: skinhandle1_lavender
+  - first:
+      213: 21300218
+    second: skincoverhandle2_lavender
+  - first:
+      213: 21300220
+    second: skinboxcover4_blue
+  - first:
+      213: 21300222
+    second: skinboxcover4_lavender
+  - first:
+      213: 21300224
+    second: skinboxcover4_oldgreen
+  - first:
+      213: 21300226
+    second: skincoverhandle2_green
+  - first:
+      213: 21300228
+    second: skinboxcover2_violet
+  - first:
+      213: 21300230
+    second: skincoverhandle1_violet
+  - first:
+      213: 21300232
+    second: skincoverhandle1_green
+  - first:
+      213: 21300234
+    second: skincoverhandle2_lavender
+  - first:
+      213: 21300236
+    second: skincoverhandle4_violet
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 0
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 47
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: skinboxcover4_lavender
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1232
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 0, z: 77, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_lavender
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1732
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 125, y: 0, z: 125, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 224
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_yellow
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1168
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Violet
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1104
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_pink
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1468
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 0, z: 57, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_skyblue
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1296
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_pink
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Blue
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 352
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle4_lavender
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1056
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: 50, y: 22}
+        - {x: -50, y: -22}
+      - - {x: -50, y: -22}
+        - {x: 50, y: 22}
+        - {x: 50, y: -22}
+      physicsShape:
+      - - {x: -42, y: 22}
+        - {x: -49, y: 13}
+        - {x: -50, y: 11}
+        - {x: -50, y: -22}
+        - {x: -24, y: -22}
+        - {x: -16, y: 0}
+        - {x: -16, y: 22}
+        - {x: 15, y: 22}
+        - {x: 15, y: 1}
+        - {x: 31, y: -22}
+        - {x: 50, y: -22}
+        - {x: 50, y: 14}
+        - {x: 38, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_lavender
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1424
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_lavender
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 448
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74973243a418ec7c0800000000000000
+      internalID: -4049156859257194169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_violet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1976
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_green
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 240
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_green
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 248
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_orange
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 96
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_yellow
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1360
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_green
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1828
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Red
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 384
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle4_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: 50, y: 22}
+        - {x: -50, y: -22}
+      - - {x: -50, y: -22}
+        - {x: 50, y: 22}
+        - {x: 50, y: -22}
+      physicsShape:
+      - - {x: -42, y: 22}
+        - {x: -49, y: 13}
+        - {x: -50, y: 11}
+        - {x: -50, y: -22}
+        - {x: -24, y: -22}
+        - {x: -16, y: 0}
+        - {x: -16, y: 22}
+        - {x: 15, y: 22}
+        - {x: 15, y: 1}
+        - {x: 31, y: -22}
+        - {x: 50, y: -22}
+        - {x: 50, y: 14}
+        - {x: 38, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbef4628b7f2b7800800000000000000
+      internalID: 611134381953973951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_pink
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1712
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 66, y: 0, z: 66, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_skyblue
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1352
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 57, y: 0, z: 57, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 96
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_yellow
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 360
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -42}
+        - {x: -12, y: -51}
+        - {x: 17, y: -50}
+        - {x: 32, y: -42}
+        - {x: 58, y: -44}
+        - {x: 78, y: -58}
+        - {x: 102, y: -58}
+        - {x: 134, y: -24}
+        - {x: 138, y: -15}
+        - {x: 138, y: 23}
+        - {x: 133, y: 36}
+        - {x: 115, y: 53}
+        - {x: 105, y: 58}
+        - {x: 70, y: 58}
+        - {x: 65, y: 57}
+        - {x: 51, y: 49}
+        - {x: 43, y: 41}
+        - {x: 30, y: 53}
+        - {x: 18, y: 58}
+        - {x: -15, y: 58}
+        - {x: -20, y: 57}
+        - {x: -33, y: 49}
+        - {x: -58, y: 54}
+        - {x: -70, y: 58}
+        - {x: -103, y: 58}
+        - {x: -119, y: 50}
+        - {x: -131, y: 38}
+        - {x: -138, y: 25}
+        - {x: -138, y: -9.999999}
+        - {x: -137, y: -17}
+        - {x: -130, y: -28}
+        - {x: -118, y: -40}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -79, y: -58}
+        - {x: -75, y: -55}
+        - {x: -53, y: -40}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_blue
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1208
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 96, y: 0, z: 96, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_pink
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 736
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_yellow
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 840
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 0, z: 77, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1832
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_green
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1700
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 68, y: 0, z: 66, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_lavender
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1900
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266dd8a451bd058e0800000000000000
+      internalID: -1706623374281812382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Orange
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2000
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_lavender
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1200
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b66cdeeff360c9f0800000000000000
+      internalID: -450250011861817678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_lavender
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 856
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -42}
+        - {x: -12, y: -51}
+        - {x: 17, y: -50}
+        - {x: 32, y: -42}
+        - {x: 58, y: -44}
+        - {x: 78, y: -58}
+        - {x: 102, y: -58}
+        - {x: 134, y: -24}
+        - {x: 138, y: -15}
+        - {x: 138, y: 23}
+        - {x: 133, y: 36}
+        - {x: 115, y: 53}
+        - {x: 105, y: 58}
+        - {x: 70, y: 58}
+        - {x: 65, y: 57}
+        - {x: 51, y: 49}
+        - {x: 43, y: 41}
+        - {x: 30, y: 53}
+        - {x: 18, y: 58}
+        - {x: -15, y: 58}
+        - {x: -20, y: 57}
+        - {x: -33, y: 49}
+        - {x: -58, y: 54}
+        - {x: -70, y: 58}
+        - {x: -103, y: 58}
+        - {x: -119, y: 50}
+        - {x: -131, y: 38}
+        - {x: -138, y: 25}
+        - {x: -138, y: -9.999999}
+        - {x: -137, y: -17}
+        - {x: -130, y: -28}
+        - {x: -118, y: -40}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -79, y: -58}
+        - {x: -75, y: -55}
+        - {x: -53, y: -40}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 288
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1868
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_blue
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1232
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_blue
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 416
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1440
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 79, y: 0, z: 80, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_green
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 992
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 0, z: 76, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_skyblue
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1768
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_blue
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1104
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_Violet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 46, y: 48, z: 46, w: 35}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Green
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1936
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_skyblue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1904
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle2_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 48
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: 50, y: 22}
+        - {x: -50, y: -22}
+      - - {x: -50, y: -22}
+        - {x: 50, y: 22}
+        - {x: 50, y: -22}
+      physicsShape:
+      - - {x: -42, y: 22}
+        - {x: -49, y: 13}
+        - {x: -50, y: 11}
+        - {x: -50, y: -22}
+        - {x: -24, y: -22}
+        - {x: -16, y: 0}
+        - {x: -16, y: 22}
+        - {x: 15, y: 22}
+        - {x: 15, y: 1}
+        - {x: 31, y: -22}
+        - {x: 50, y: -22}
+        - {x: 50, y: 14}
+        - {x: 38, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_SkyBlue
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1936
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_violet
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 976
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 65, y: 0, z: 65, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_yellow
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 256
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_Blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 620
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 88, y: 47, z: 88, w: 48}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle5_lavender
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1672
+        width: 168
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 28}
+        - {x: 84, y: 28}
+        - {x: -84, y: -28}
+      - - {x: -84, y: -28}
+        - {x: 84, y: 28}
+        - {x: 84, y: -28}
+      physicsShape:
+      - - {x: -74, y: 28}
+        - {x: -84, y: 17}
+        - {x: -84, y: -24}
+        - {x: -78, y: -28}
+        - {x: -66, y: -28}
+        - {x: -55, y: 2}
+        - {x: -11, y: 7}
+        - {x: -11, y: 28}
+        - {x: 11, y: 28}
+        - {x: 9.999999, y: 22}
+        - {x: 9.999999, y: 7}
+        - {x: 56, y: 4}
+        - {x: 66, y: -28}
+        - {x: 72.99999, y: -28}
+        - {x: 84, y: -25}
+        - {x: 84, y: 7}
+        - {x: 83, y: 21}
+        - {x: 72.99999, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_pink
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1968
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 416
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1940
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_violet
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 512
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_orange
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1328
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_yellow
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1092
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 74, y: 0, z: 74, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1864
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle1_lavender
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1672
+        width: 168
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 38, y: 0, z: 38, w: 0}
+      outline:
+      - - {x: -84, y: 28}
+        - {x: 84, y: 28}
+        - {x: -84, y: -28}
+      - - {x: -84, y: -28}
+        - {x: 84, y: 28}
+        - {x: 84, y: -28}
+      physicsShape:
+      - - {x: -74, y: 28}
+        - {x: -84, y: 17}
+        - {x: -84, y: -24}
+        - {x: -78, y: -28}
+        - {x: -66, y: -28}
+        - {x: -55, y: 2}
+        - {x: -11, y: 7}
+        - {x: -11, y: 28}
+        - {x: 11, y: 28}
+        - {x: 9.999999, y: 22}
+        - {x: 9.999999, y: 7}
+        - {x: 56, y: 4}
+        - {x: 66, y: -28}
+        - {x: 72.99999, y: -28}
+        - {x: 84, y: -25}
+        - {x: 84, y: 7}
+        - {x: 83, y: 21}
+        - {x: 72.99999, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_Orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 134, y: 55, z: 135, w: 57}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_red
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 496
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -42}
+        - {x: -12, y: -51}
+        - {x: 17, y: -50}
+        - {x: 32, y: -42}
+        - {x: 58, y: -44}
+        - {x: 78, y: -58}
+        - {x: 102, y: -58}
+        - {x: 134, y: -24}
+        - {x: 138, y: -15}
+        - {x: 138, y: 23}
+        - {x: 133, y: 36}
+        - {x: 115, y: 53}
+        - {x: 105, y: 58}
+        - {x: 70, y: 58}
+        - {x: 65, y: 57}
+        - {x: 51, y: 49}
+        - {x: 43, y: 41}
+        - {x: 30, y: 53}
+        - {x: 18, y: 58}
+        - {x: -15, y: 58}
+        - {x: -20, y: 57}
+        - {x: -33, y: 49}
+        - {x: -58, y: 54}
+        - {x: -70, y: 58}
+        - {x: -103, y: 58}
+        - {x: -119, y: 50}
+        - {x: -131, y: 38}
+        - {x: -138, y: 25}
+        - {x: -138, y: -9.999999}
+        - {x: -137, y: -17}
+        - {x: -130, y: -28}
+        - {x: -118, y: -40}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -79, y: -58}
+        - {x: -75, y: -55}
+        - {x: -53, y: -40}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_SkyBlue
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 51, z: 100, w: 35}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_green
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 384
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_skyblue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 320
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33207272c717e8e0800000000000000
+      internalID: -1664335413379062977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_violet
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 616
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle2_lavender
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1008
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: 50, y: 22}
+        - {x: -50, y: -22}
+      - - {x: -50, y: -22}
+        - {x: 50, y: 22}
+        - {x: 50, y: -22}
+      physicsShape:
+      - - {x: -42, y: 22}
+        - {x: -49, y: 13}
+        - {x: -50, y: 11}
+        - {x: -50, y: -22}
+        - {x: -24, y: -22}
+        - {x: -16, y: 0}
+        - {x: -16, y: 22}
+        - {x: 15, y: 22}
+        - {x: 15, y: 1}
+        - {x: 31, y: -22}
+        - {x: 50, y: -22}
+        - {x: 50, y: 14}
+        - {x: 38, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47814984b6fc1c3c0800000000000000
+      internalID: -4340960506122332044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_orange
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1592
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 71, y: 0, z: 74, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle5_lavender
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 840
+        width: 168
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84, y: 28}
+        - {x: 84, y: 28}
+        - {x: -84, y: -28}
+      - - {x: -84, y: -28}
+        - {x: 84, y: 28}
+        - {x: 84, y: -28}
+      physicsShape:
+      - - {x: -74, y: 28}
+        - {x: -84, y: 17}
+        - {x: -84, y: -24}
+        - {x: -78, y: -28}
+        - {x: -66, y: -28}
+        - {x: -55, y: 2}
+        - {x: -11, y: 7}
+        - {x: -11, y: 28}
+        - {x: 11, y: 28}
+        - {x: 9.999999, y: 22}
+        - {x: 9.999999, y: 7}
+        - {x: 56, y: 4}
+        - {x: 66, y: -28}
+        - {x: 72.99999, y: -28}
+        - {x: 84, y: -25}
+        - {x: 84, y: 7}
+        - {x: 83, y: 21}
+        - {x: 72.99999, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220670ebe0de0b900800000000000000
+      internalID: 698318589815906338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_orange
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1584
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 0, z: 70, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_red
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1816
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 48, y: 0, z: 47, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_orange
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1136
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_red
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 900
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 2000
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_red
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 128
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Pink
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 480
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_Yellow
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1800
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_orange
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 480
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -42}
+        - {x: -12, y: -51}
+        - {x: 17, y: -50}
+        - {x: 32, y: -42}
+        - {x: 58, y: -44}
+        - {x: 78, y: -58}
+        - {x: 102, y: -58}
+        - {x: 134, y: -24}
+        - {x: 138, y: -15}
+        - {x: 138, y: 23}
+        - {x: 133, y: 36}
+        - {x: 115, y: 53}
+        - {x: 105, y: 58}
+        - {x: 70, y: 58}
+        - {x: 65, y: 57}
+        - {x: 51, y: 49}
+        - {x: 43, y: 41}
+        - {x: 30, y: 53}
+        - {x: 18, y: 58}
+        - {x: -15, y: 58}
+        - {x: -20, y: 57}
+        - {x: -33, y: 49}
+        - {x: -58, y: 54}
+        - {x: -70, y: 58}
+        - {x: -103, y: 58}
+        - {x: -119, y: 50}
+        - {x: -131, y: 38}
+        - {x: -138, y: 25}
+        - {x: -138, y: -9.999999}
+        - {x: -137, y: -17}
+        - {x: -130, y: -28}
+        - {x: -118, y: -40}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -79, y: -58}
+        - {x: -75, y: -55}
+        - {x: -53, y: -40}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_Green
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 372
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 71, y: 51, z: 71, w: 44}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_pink
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 448
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_lavender
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1556
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 125, y: 0, z: 125, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boxcover_Yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 125, y: 0, z: 125, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: -135, y: 60}
+        - {x: -138, y: 56}
+        - {x: -138, y: -50}
+        - {x: -130, y: -60}
+        - {x: 135, y: -60}
+        - {x: 138, y: -55}
+        - {x: 138, y: 60}
+        - {x: -122, y: -25}
+        - {x: -122, y: 40}
+        - {x: -120, y: 42}
+        - {x: -117, y: 44}
+        - {x: 118, y: 44}
+        - {x: 123, y: 39}
+        - {x: 123, y: -24}
+        - {x: 121, y: -27}
+        - {x: 120, y: -27}
+        - {x: 119, y: -29}
+        - {x: -117, y: -29}
+        - {x: -118, y: -28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_GrayViolet
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1296
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover3_lavender
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1324
+        width: 276
+        height: 112
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 69, y: 0, z: 71, w: 0}
+      outline:
+      - - {x: -138, y: 56}
+        - {x: 138, y: 56}
+        - {x: -138, y: -56}
+      - - {x: -138, y: -56}
+        - {x: 138, y: 56}
+        - {x: 138, y: -56}
+      physicsShape:
+      - - {x: -138, y: 56}
+        - {x: -138, y: -49}
+        - {x: -132, y: -53}
+        - {x: -79.99999, y: -56}
+        - {x: 91.99999, y: -56}
+        - {x: 127, y: -55}
+        - {x: 138, y: -49}
+        - {x: 138, y: 56}
+        - {x: -122, y: -22}
+        - {x: -117, y: 42}
+        - {x: 118, y: 42}
+        - {x: 123, y: 38}
+        - {x: 123, y: -22}
+        - {x: 118, y: -27}
+        - {x: -116, y: -27}
+        - {x: -118, y: -26}
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ecb09747fcd85f0800000000000000
+      internalID: -752717463547031922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_red
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 192
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 70, y: 0, z: 69, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_lavender
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 600
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -42}
+        - {x: -12, y: -51}
+        - {x: 17, y: -50}
+        - {x: 32, y: -42}
+        - {x: 58, y: -44}
+        - {x: 78, y: -58}
+        - {x: 102, y: -58}
+        - {x: 134, y: -24}
+        - {x: 138, y: -15}
+        - {x: 138, y: 23}
+        - {x: 133, y: 36}
+        - {x: 115, y: 53}
+        - {x: 105, y: 58}
+        - {x: 70, y: 58}
+        - {x: 65, y: 57}
+        - {x: 51, y: 49}
+        - {x: 43, y: 41}
+        - {x: 30, y: 53}
+        - {x: 18, y: 58}
+        - {x: -15, y: 58}
+        - {x: -20, y: 57}
+        - {x: -33, y: 49}
+        - {x: -58, y: 54}
+        - {x: -70, y: 58}
+        - {x: -103, y: 58}
+        - {x: -119, y: 50}
+        - {x: -131, y: 38}
+        - {x: -138, y: 25}
+        - {x: -138, y: -9.999999}
+        - {x: -137, y: -17}
+        - {x: -130, y: -28}
+        - {x: -118, y: -40}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -79, y: -58}
+        - {x: -75, y: -55}
+        - {x: -53, y: -40}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dd8b501f7b46d30800000000000000
+      internalID: 4423862979795672379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_green
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 128
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoverHandle_OldGreen
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1968
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_skyblue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1352
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 81, y: 0, z: 82, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1968
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_skyblue
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 352
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_blue
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 576
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_orange
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 608
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e305410000000000800000000000000
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_violet
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1264
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e305410000000000800000000000000
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_skyblue
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 720
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e305410000000000800000000000000
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_pink
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1932
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e305410000000000800000000000000
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_skyblue
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1968
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e305410000000000800000000000000
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle5_pink
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 160
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae305410000000000800000000000000
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover1_blue
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 120
+        width: 276
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 58}
+        - {x: 138, y: 58}
+        - {x: -138, y: -58}
+      - - {x: -138, y: -58}
+        - {x: 138, y: 58}
+        - {x: 138, y: -58}
+      physicsShape:
+      - - {x: -29, y: -43}
+        - {x: -11, y: -50}
+        - {x: 5, y: -50}
+        - {x: 20, y: -48}
+        - {x: 33, y: -40}
+        - {x: 48, y: -37}
+        - {x: 66, y: -48}
+        - {x: 79.99999, y: -58}
+        - {x: 104, y: -58}
+        - {x: 130, y: -29}
+        - {x: 138, y: -17}
+        - {x: 138, y: 24}
+        - {x: 132, y: 39}
+        - {x: 107, y: 58}
+        - {x: 66.99999, y: 58}
+        - {x: 46, y: 47}
+        - {x: 34, y: 49}
+        - {x: 25, y: 54}
+        - {x: 21, y: 57}
+        - {x: 18, y: 58}
+        - {x: -17, y: 58}
+        - {x: -23, y: 57}
+        - {x: -33, y: 49}
+        - {x: -52, y: 49}
+        - {x: -65, y: 57}
+        - {x: -71, y: 58}
+        - {x: -102, y: 58}
+        - {x: -113, y: 55}
+        - {x: -136, y: 33}
+        - {x: -138, y: 24}
+        - {x: -138, y: -19}
+        - {x: -119, y: -42}
+        - {x: -106, y: -46}
+        - {x: -102, y: -58}
+        - {x: -78, y: -58}
+        - {x: -74, y: -55}
+        - {x: -53, y: -41}
+        - {x: -42, y: -30}
+        - {x: -15, y: -28}
+        - {x: -22, y: -23}
+        - {x: -25, y: -22}
+        - {x: -37, y: -9.999999}
+        - {x: -40, y: -9}
+        - {x: -47, y: -9}
+        - {x: -50, y: -9.999999}
+        - {x: -61, y: -21}
+        - {x: -64, y: -23}
+        - {x: -72.99999, y: -27}
+        - {x: -81, y: -29}
+        - {x: -89, y: -30}
+        - {x: -90, y: -29}
+        - {x: -101, y: -27}
+        - {x: -111, y: -21}
+        - {x: -112, y: -21}
+        - {x: -121, y: -9.999999}
+        - {x: -122, y: -6}
+        - {x: -125, y: 0}
+        - {x: -125, y: 16}
+        - {x: -124, y: 17}
+        - {x: -122, y: 23}
+        - {x: -119, y: 29}
+        - {x: -110, y: 38}
+        - {x: -100, y: 44}
+        - {x: -97, y: 44}
+        - {x: -93, y: 45}
+        - {x: -79, y: 46}
+        - {x: -78, y: 45}
+        - {x: -68, y: 42}
+        - {x: -62, y: 39}
+        - {x: -50, y: 28}
+        - {x: -47, y: 26}
+        - {x: -41, y: 25}
+        - {x: -38, y: 26}
+        - {x: -31, y: 33}
+        - {x: -21, y: 41}
+        - {x: -14, y: 44}
+        - {x: -5, y: 46}
+        - {x: 5, y: 47}
+        - {x: 6, y: 46}
+        - {x: 12, y: 45}
+        - {x: 25, y: 39}
+        - {x: 29, y: 35}
+        - {x: 39, y: 26}
+        - {x: 46, y: 25}
+        - {x: 49, y: 26}
+        - {x: 55, y: 32}
+        - {x: 65, y: 40}
+        - {x: 72, y: 43}
+        - {x: 76, y: 45}
+        - {x: 89, y: 46}
+        - {x: 90, y: 45}
+        - {x: 96, y: 44}
+        - {x: 102, y: 42}
+        - {x: 111, y: 37}
+        - {x: 118, y: 30}
+        - {x: 122, y: 24}
+        - {x: 124, y: 17}
+        - {x: 125, y: 17}
+        - {x: 124, y: 3}
+        - {x: 121, y: -7}
+        - {x: 117, y: -15}
+        - {x: 106, y: -24}
+        - {x: 94, y: -28}
+        - {x: 93, y: -29}
+        - {x: 79, y: -29}
+        - {x: 78, y: -28}
+        - {x: 72.99999, y: -27}
+        - {x: 60, y: -20}
+        - {x: 50, y: -9.999999}
+        - {x: 47, y: -9}
+        - {x: 42, y: -9}
+        - {x: 37, y: -11}
+        - {x: 33, y: -16}
+        - {x: 25, y: -23}
+        - {x: 19, y: -27}
+        - {x: 17, y: -27}
+        - {x: 9.999999, y: -30}
+        - {x: -2, y: -31}
+        - {x: -3, y: -30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce305410000000000800000000000000
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_violet
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 77, y: 0, z: 78, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee305410000000000800000000000000
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle3_blue
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1792
+        width: 268
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -134, y: 16}
+        - {x: 134, y: 16}
+        - {x: -134, y: -16}
+      - - {x: -134, y: -16}
+        - {x: 134, y: 16}
+        - {x: 134, y: -16}
+      physicsShape:
+      - - {x: -129, y: 16}
+        - {x: -134, y: 11}
+        - {x: -134, y: -12}
+        - {x: -129, y: -16}
+        - {x: 130, y: -16}
+        - {x: 134, y: -11}
+        - {x: 134, y: 12}
+        - {x: 129, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f305410000000000800000000000000
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Handle
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 960
+        width: 100
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 22}
+        - {x: 50, y: 22}
+        - {x: -50, y: -22}
+      - - {x: -50, y: -22}
+        - {x: 50, y: 22}
+        - {x: 50, y: -22}
+      physicsShape:
+      - - {x: -42, y: 22}
+        - {x: -49, y: 13}
+        - {x: -50, y: 11}
+        - {x: -50, y: -22}
+        - {x: -24, y: -22}
+        - {x: -16, y: 0}
+        - {x: -16, y: 22}
+        - {x: 15, y: 22}
+        - {x: 15, y: 1}
+        - {x: 31, y: -22}
+        - {x: 50, y: -22}
+        - {x: 50, y: 14}
+        - {x: 38, y: 22}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f305410000000000800000000000000
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_yellow
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1936
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f305410000000000800000000000000
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_red
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1136
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f305410000000000800000000000000
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinhandle1_lavender
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1732
+        width: 168
+        height: 56
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 33, y: 24, z: 33, w: 23}
+      outline:
+      - - {x: -84, y: 28}
+        - {x: 84, y: 28}
+        - {x: -84, y: -28}
+      - - {x: -84, y: -28}
+        - {x: 84, y: 28}
+        - {x: 84, y: -28}
+      physicsShape:
+      - - {x: -74, y: 28}
+        - {x: -84, y: 17}
+        - {x: -84, y: -24}
+        - {x: -78, y: -28}
+        - {x: -66, y: -28}
+        - {x: -55, y: 2}
+        - {x: -11, y: 7}
+        - {x: -11, y: 28}
+        - {x: 11, y: 28}
+        - {x: 9.999999, y: 22}
+        - {x: 9.999999, y: 7}
+        - {x: 56, y: 4}
+        - {x: 66, y: -28}
+        - {x: 72.99999, y: -28}
+        - {x: 84, y: -25}
+        - {x: 84, y: 7}
+        - {x: 83, y: 21}
+        - {x: 72.99999, y: 28}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d69a3eb0d97220800000000000000
+      internalID: 2484246184916865557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_lavender
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 544
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af305410000000000800000000000000
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_blue
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1112
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 82, y: 0, z: 82, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf305410000000000800000000000000
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_lavender
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1112
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 108, y: 0, z: 108, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec7a2aba1ad17f00800000000000000
+      internalID: 1112910391264574692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover4_oldgreen
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 992
+        width: 268
+        height: 116
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 66, y: 0, z: 66, w: 0}
+      outline:
+      - - {x: -134, y: 58}
+        - {x: 134, y: 58}
+        - {x: -134, y: -58}
+      - - {x: -134, y: -58}
+        - {x: 134, y: 58}
+        - {x: 134, y: -58}
+      physicsShape:
+      - - {x: 113, y: -39}
+        - {x: 128, y: -25}
+        - {x: 134, y: -9}
+        - {x: 134, y: 22}
+        - {x: 133, y: 29}
+        - {x: 127, y: 41}
+        - {x: 104, y: 58}
+        - {x: -106, y: 58}
+        - {x: -128, y: 41}
+        - {x: -134, y: 26}
+        - {x: -134, y: -9}
+        - {x: -129, y: -28}
+        - {x: -100, y: -49}
+        - {x: -23, y: -48}
+        - {x: -11, y: -58}
+        - {x: 11, y: -58}
+        - {x: 14, y: -57}
+        - {x: 25, y: -48}
+        - {x: 87, y: -48}
+        - {x: 104, y: -45}
+        - {x: -107, y: -18}
+        - {x: -117, y: -6}
+        - {x: -120, y: 3}
+        - {x: -121, y: 4}
+        - {x: -120, y: 18}
+        - {x: -114, y: 32}
+        - {x: -106, y: 40}
+        - {x: -93, y: 45}
+        - {x: -88, y: 46}
+        - {x: -74, y: 47}
+        - {x: -72.99999, y: 46}
+        - {x: -57, y: 46}
+        - {x: -42, y: 47}
+        - {x: -41, y: 46}
+        - {x: -30, y: 46}
+        - {x: -29, y: 47}
+        - {x: 19, y: 47}
+        - {x: 20, y: 46}
+        - {x: 58, y: 46}
+        - {x: 59, y: 47}
+        - {x: 85.99999, y: 47}
+        - {x: 87, y: 46}
+        - {x: 97.99999, y: 43}
+        - {x: 106, y: 39}
+        - {x: 113, y: 32}
+        - {x: 119, y: 21}
+        - {x: 119, y: 17}
+        - {x: 120, y: 5}
+        - {x: 119, y: 4}
+        - {x: 117, y: -3}
+        - {x: 113, y: -11}
+        - {x: 106, y: -18}
+        - {x: 91.99999, y: -25}
+        - {x: -91, y: -25}
+        - {x: -91.99999, y: -24}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00405410000000000800000000000000
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_green
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1832
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20405410000000000800000000000000
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skinboxcover2_violet
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 124
+        width: 276
+        height: 120
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 95, y: 0, z: 95, w: 0}
+      outline:
+      - - {x: -138, y: 60}
+        - {x: 138, y: 60}
+        - {x: -138, y: -60}
+      - - {x: -138, y: -60}
+        - {x: 138, y: 60}
+        - {x: 138, y: -60}
+      physicsShape:
+      - - {x: 5, y: -50}
+        - {x: 16, y: -47}
+        - {x: 30, y: -41}
+        - {x: 33, y: -38}
+        - {x: 44, y: -31}
+        - {x: 53, y: -40}
+        - {x: 70, y: -47}
+        - {x: 83, y: -60}
+        - {x: 97, y: -60}
+        - {x: 101, y: -57}
+        - {x: 131, y: -27}
+        - {x: 138, y: -11}
+        - {x: 138, y: 40}
+        - {x: 124, y: 58}
+        - {x: 116, y: 60}
+        - {x: -117, y: 60}
+        - {x: -127, y: 55}
+        - {x: -138, y: 40}
+        - {x: -138, y: -16}
+        - {x: -130, y: -30}
+        - {x: -105, y: -50}
+        - {x: -97, y: -60}
+        - {x: -79, y: -60}
+        - {x: -42, y: -31}
+        - {x: -31, y: -41}
+        - {x: -16, y: -48}
+        - {x: -101, y: -24}
+        - {x: -113, y: -18}
+        - {x: -121, y: -7}
+        - {x: -124, y: 4}
+        - {x: -126, y: 4}
+        - {x: -126, y: 30}
+        - {x: -125, y: 31}
+        - {x: -123, y: 37}
+        - {x: -119, y: 42}
+        - {x: -110, y: 46}
+        - {x: -109, y: 47}
+        - {x: 109, y: 47}
+        - {x: 110, y: 46}
+        - {x: 116, y: 44}
+        - {x: 121, y: 40}
+        - {x: 125, y: 31}
+        - {x: 126, y: 30}
+        - {x: 126, y: 4}
+        - {x: 125, y: 3}
+        - {x: 118, y: -13}
+        - {x: 109, y: -21}
+        - {x: 91, y: -27}
+        - {x: 79, y: -28}
+        - {x: 78, y: -27}
+        - {x: 68, y: -25}
+        - {x: 57, y: -18}
+        - {x: 47, y: -8}
+        - {x: 41, y: -6}
+        - {x: 33, y: -12}
+        - {x: 25, y: -21}
+        - {x: 16, y: -25}
+        - {x: 7, y: -27}
+        - {x: -4, y: -27}
+        - {x: -15, y: -24}
+        - {x: -27, y: -18}
+        - {x: -38, y: -8}
+        - {x: -44, y: -7}
+        - {x: -47, y: -8}
+        - {x: -61, y: -21}
+        - {x: -70, y: -25}
+        - {x: -79, y: -27}
+        - {x: -90, y: -27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405410000000000800000000000000
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_violet
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 900
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60405410000000000800000000000000
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle1_green
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 160
+        width: 72
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 14}
+        - {x: 36, y: 14}
+        - {x: -36, y: -14}
+      - - {x: -36, y: -14}
+        - {x: 36, y: 14}
+        - {x: 36, y: -14}
+      physicsShape:
+      - - {x: 34, y: 14}
+        - {x: -32, y: 14}
+        - {x: -36, y: 9}
+        - {x: -36, y: -9.999999}
+        - {x: -30, y: -14}
+        - {x: 29, y: -14}
+        - {x: 36, y: -11}
+        - {x: 36, y: 9}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80405410000000000800000000000000
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle2_lavender
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1800
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a7e66ae493f7750800000000000000
+      internalID: 6304821013304474264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: skincoverhandle4_violet
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1392
+        width: 48
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 14}
+        - {x: 24, y: 14}
+        - {x: -24, y: -14}
+      - - {x: -24, y: -14}
+        - {x: 24, y: 14}
+        - {x: 24, y: -14}
+      physicsShape:
+      - - {x: -24, y: 14}
+        - {x: -24, y: -13}
+        - {x: -21, y: -14}
+        - {x: 21, y: -14}
+        - {x: 24, y: -13}
+        - {x: 24, y: 14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0405410000000000800000000000000
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Boxcover_Blue: 21300102
+      Boxcover_Green: 21300162
+      Boxcover_Orange: 21300122
+      Boxcover_SkyBlue: 21300126
+      Boxcover_Violet: 21300086
+      Boxcover_Yellow: 21300168
+      CoverHandle_Blue: 21300016
+      CoverHandle_GrayViolet: 21300170
+      CoverHandle_Green: 21300088
+      CoverHandle_OldGreen: 21300182
+      CoverHandle_Orange: 21300064
+      CoverHandle_Pink: 21300156
+      CoverHandle_Red: 21300038
+      CoverHandle_SkyBlue: 21300094
+      CoverHandle_Violet: 21300008
+      CoverHandle_Yellow: 21300158
+      Handle: 21300210
+      skinboxcover1_blue: 21300204
+      skinboxcover1_green: 21300028
+      skinboxcover1_lavender: 21300068
+      skinboxcover1_oldgreen: 21300100
+      skinboxcover1_orange: 21300160
+      skinboxcover1_pink: 21300054
+      skinboxcover1_red: 21300124
+      skinboxcover1_skyblue: 21300196
+      skinboxcover1_violet: 21300134
+      skinboxcover1_yellow: 21300050
+      skinboxcover2_green: 21300030
+      skinboxcover2_oldgreen: 21300020
+      skinboxcover2_orange: 21300048
+      skinboxcover2_skyblue: 21300130
+      skinboxcover2_violet: 21300228
+      skinboxcover2_yellow: 21300140
+      skinboxcover3_blue: 21300052
+      skinboxcover3_green: 21300060
+      skinboxcover3_lavender: 21300166
+      skinboxcover3_oldgreen: 21300078
+      skinboxcover3_orange: 21300144
+      skinboxcover3_pink: 21300010
+      skinboxcover3_red: 21300146
+      skinboxcover3_skyblue: 21300044
+      skinboxcover3_violet: 21300096
+      skinboxcover3_yellow: 21300116
+      skinboxcover4_blue: 21300220
+      skinboxcover4_green: 21300080
+      skinboxcover4_lavender: 21300000
+      skinboxcover4_oldgreen: 21300224
+      skinboxcover4_orange: 21300138
+      skinboxcover4_pink: 21300042
+      skinboxcover4_red: 21300176
+      skinboxcover4_skyblue: 21300184
+      skinboxcover4_violet: 21300206
+      skinboxcover4_yellow: 21300056
+      skincoverhandle1_blue: 21300084
+      skincoverhandle1_green: 21300232
+      skincoverhandle1_lavender: 21300004
+      skincoverhandle1_oldgreen: 21300186
+      skincoverhandle1_orange: 21300032
+      skincoverhandle1_pink: 21300106
+      skincoverhandle1_red: 21300174
+      skincoverhandle1_skyblue: 21300200
+      skincoverhandle1_violet: 21300230
+      skincoverhandle1_yellow: 21300006
+      skincoverhandle2_blue: 21300076
+      skincoverhandle2_green: 21300226
+      skincoverhandle2_lavender: 21300218
+      skincoverhandle2_oldgreen: 21300108
+      skincoverhandle2_orange: 21300114
+      skincoverhandle2_pink: 21300164
+      skincoverhandle2_red: 21300214
+      skincoverhandle2_skyblue: 21300012
+      skincoverhandle2_violet: 21300112
+      skincoverhandle2_yellow: 21300212
+      skincoverhandle3_blue: 21300208
+      skincoverhandle3_green: 21300036
+      skincoverhandle3_lavender: 21300002
+      skincoverhandle3_oldgreen: 21300118
+      skincoverhandle3_orange: 21300072
+      skincoverhandle3_pink: 21300198
+      skincoverhandle3_red: 21300110
+      skincoverhandle3_skyblue: 21300090
+      skincoverhandle3_violet: 21300026
+      skincoverhandle3_yellow: 21300058
+      skincoverhandle4_blue: 21300190
+      skincoverhandle4_green: 21300128
+      skincoverhandle4_lavender: 21300022
+      skincoverhandle4_oldgreen: 21300152
+      skincoverhandle4_orange: 21300192
+      skincoverhandle4_pink: 21300014
+      skincoverhandle4_red: 21300150
+      skincoverhandle4_skyblue: 21300188
+      skincoverhandle4_violet: 21300236
+      skincoverhandle4_yellow: 21300034
+      skincoverhandle5_blue: 21300074
+      skincoverhandle5_green: 21300180
+      skincoverhandle5_lavender: 21300046
+      skincoverhandle5_oldgreen: 21300070
+      skincoverhandle5_orange: 21300148
+      skincoverhandle5_pink: 21300202
+      skincoverhandle5_red: 21300154
+      skincoverhandle5_skyblue: 21300082
+      skincoverhandle5_violet: 21300194
+      skincoverhandle5_yellow: 21300098
+      skinhandle1_lavender: 21300120
+      skinhandle2_lavender: 21300092
+      skinhandle4_lavender: 21300018
+      skinhandle5_lavender: 21300104
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

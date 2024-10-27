@@ -1,0 +1,8 @@
+Banner.png
+size:966,362
+filter:Linear,Linear
+pma:true
+Banner
+bounds:2,152,962,208
+Banner2
+bounds:2,2,641,148

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f3ea0bb800d745078993c2ae5ac79a8e
+timeCreated: 1729072483
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "MADE Tommy Soft Black PERSONAL USE"
+  fontNames:
+  - MADE Tommy Soft
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 

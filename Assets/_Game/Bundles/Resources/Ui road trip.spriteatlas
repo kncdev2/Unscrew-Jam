@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &68707889500000
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ui road trip
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 21300000, guid: 1cb6e18fd22b46c389ab0d21aff2ef22, type: 3}
+    - {fileID: 21300000, guid: fb8127d10e194e2a8fa96dea1bce97f7, type: 3}
+    - {fileID: 21300000, guid: f534f8934c5e419490247db163b5d779, type: 3}
+    - {fileID: 21300000, guid: 20bdb93cfd124184a474a104dc721fa4, type: 3}
+    - {fileID: 21300000, guid: 05c43b2bdbdd4e16acb7739abdc14c18, type: 3}
+    - {fileID: 21300000, guid: 95cfebae7c6b4de19656aefff24cc7db, type: 3}
+    - {fileID: 21300000, guid: 2bfc17ebfdd04b339ce750812dd546a9, type: 3}
+    - {fileID: 21300000, guid: 9968f0c5e07b463b8244804d06437a21, type: 3}
+    - {fileID: 21300000, guid: b0a7d5b922e4439ca5ff0f7c55be2384, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - fb8127d10e194e2a8fa96dea1bce97f7: 21300000
+    - f534f8934c5e419490247db163b5d779: 21300000
+    - 9968f0c5e07b463b8244804d06437a21: 21300000
+    - b0a7d5b922e4439ca5ff0f7c55be2384: 21300000
+    - 05c43b2bdbdd4e16acb7739abdc14c18: 21300000
+    - 2bfc17ebfdd04b339ce750812dd546a9: 21300000
+    - 20bdb93cfd124184a474a104dc721fa4: 21300000
+    - 95cfebae7c6b4de19656aefff24cc7db: 21300000
+    - 1cb6e18fd22b46c389ab0d21aff2ef22: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fb8127d10e194e2a8fa96dea1bce97f7, type: 3}
+  - {fileID: 21300000, guid: f534f8934c5e419490247db163b5d779, type: 3}
+  - {fileID: 21300000, guid: 9968f0c5e07b463b8244804d06437a21, type: 3}
+  - {fileID: 21300000, guid: b0a7d5b922e4439ca5ff0f7c55be2384, type: 3}
+  - {fileID: 21300000, guid: 05c43b2bdbdd4e16acb7739abdc14c18, type: 3}
+  - {fileID: 21300000, guid: 2bfc17ebfdd04b339ce750812dd546a9, type: 3}
+  - {fileID: 21300000, guid: 20bdb93cfd124184a474a104dc721fa4, type: 3}
+  - {fileID: 21300000, guid: 95cfebae7c6b4de19656aefff24cc7db, type: 3}
+  - {fileID: 21300000, guid: 1cb6e18fd22b46c389ab0d21aff2ef22, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - chat_bubbles_3
+  - yellow_base_3
+  - purple_button
+  - blue_button
+  - screw_pass
+  - chat_bubbles_2
+  - chat_bubbles_1
+  - purple_base
+  - Scrb
+  m_RenderDataMap: {}
+  m_Tag: Ui road trip
+  m_IsVariant: 0

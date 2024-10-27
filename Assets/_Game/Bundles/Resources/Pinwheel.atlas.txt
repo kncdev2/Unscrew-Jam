@@ -1,0 +1,11 @@
+Pinwheel.png
+size:149,149
+filter:Linear,Linear
+pma:true
+center
+bounds:113,112,34,35
+handle
+bounds:113,90,20,25
+rotate:90
+pinwheel
+bounds:2,39,109,108
